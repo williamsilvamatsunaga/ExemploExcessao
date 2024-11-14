@@ -1,0 +1,7 @@
+C:\Users\2023202060036\Desktop\Tratamento_POO\Tratamento_POO\bin\Debug\Tratamento_POO.exe.config
+C:\Users\2023202060036\Desktop\Tratamento_POO\Tratamento_POO\bin\Debug\Tratamento_POO.exe
+C:\Users\2023202060036\Desktop\Tratamento_POO\Tratamento_POO\bin\Debug\Tratamento_POO.pdb
+C:\Users\2023202060036\Desktop\Tratamento_POO\Tratamento_POO\obj\Debug\Tratamento_POO.csproj.AssemblyReference.cache
+C:\Users\2023202060036\Desktop\Tratamento_POO\Tratamento_POO\obj\Debug\Tratamento_POO.csproj.CoreCompileInputs.cache
+C:\Users\2023202060036\Desktop\Tratamento_POO\Tratamento_POO\obj\Debug\Tratamento_POO.exe
+C:\Users\2023202060036\Desktop\Tratamento_POO\Tratamento_POO\obj\Debug\Tratamento_POO.pdb

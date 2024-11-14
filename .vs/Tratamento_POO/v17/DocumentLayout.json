@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060036\\Desktop\\Tratamento_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BD1D90-F651-405E-B115-AC94D60F7BE2}|Tratamento_POO\\Tratamento_POO.csproj|c:\\users\\2023202060036\\desktop\\tratamento_poo\\tratamento_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BD1D90-F651-405E-B115-AC94D60F7BE2}|Tratamento_POO\\Tratamento_POO.csproj|solutionrelative:tratamento_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BD1D90-F651-405E-B115-AC94D60F7BE2}|Tratamento_POO\\Tratamento_POO.csproj|c:\\users\\2023202060036\\desktop\\tratamento_poo\\tratamento_poo\\excessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BD1D90-F651-405E-B115-AC94D60F7BE2}|Tratamento_POO\\Tratamento_POO.csproj|solutionrelative:tratamento_poo\\excessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Excessao.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\Tratamento_POO\\Tratamento_POO\\Excessao.cs",
+              "RelativeDocumentMoniker": "Tratamento_POO\\Excessao.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\Tratamento_POO\\Tratamento_POO\\Excessao.cs",
+              "RelativeToolTip": "Tratamento_POO\\Excessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:05:43.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\Tratamento_POO\\Tratamento_POO\\Program.cs",
+              "RelativeDocumentMoniker": "Tratamento_POO\\Program.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\Tratamento_POO\\Tratamento_POO\\Program.cs",
+              "RelativeToolTip": "Tratamento_POO\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T23:34:58.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
